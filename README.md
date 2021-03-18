@@ -10,6 +10,6 @@ java -jar NgsReadsTreatmentGI.jar
 
 # Running command line
 
-java -jar NgsReadsTreatment.jar PATH<Single-end>
+java -jar NgsReadsTreatment.jar PATH Single-end.fastq
 
-java -jar NgsReadsTreatment.jar PATH<Paired tag1> PATH<Paired tag2>
+java -jar NgsReadsTreatment.jar PATH Paired_tag1.fastq  PATH Paired_tag2.fastq
