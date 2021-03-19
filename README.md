@@ -5,11 +5,11 @@
 https://www.nature.com/articles/s41598-019-48242-w
 
 # Execution
-## Graphical interface
+### Graphical interface
 
 java -jar NgsReadsTreatmentGI.jar
 
-## Command line
+### Command line
 
 java -jar NgsReadsTreatment.jar PATH Single-end.fastq
 
