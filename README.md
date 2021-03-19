@@ -4,11 +4,12 @@
 # Article avaliable in:
 https://www.nature.com/articles/s41598-019-48242-w
 
-# Running Graphical interface
+# Execution
+## Graphical interface
 
 java -jar NgsReadsTreatmentGI.jar
 
-# Running command line
+## Command line
 
 java -jar NgsReadsTreatment.jar PATH Single-end.fastq
 
