@@ -14,3 +14,5 @@
     java -jar NgsReadsTreatment.jar PATH Single-end.fastq
 
     java -jar NgsReadsTreatment.jar PATH Paired_tag1.fastq  PATH Paired_tag2.fastq
+
+Status project: Finished :heavy_check_mark:
